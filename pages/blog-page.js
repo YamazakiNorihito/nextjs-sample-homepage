@@ -17,7 +17,7 @@ export default function Blog({ posts }) {
   /*
     試しに コマンド「npm run build」 実行後
     [.next>server>pages>blog-page.html]を確認すると
-    HTMLが展開されている
+    HTMLが展開されている.
   */
 }
 export async function getStaticProps() {
